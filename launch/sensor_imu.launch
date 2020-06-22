@@ -3,7 +3,7 @@
     <!-- support multi sensor in one master -->
     <arg name="sensor_name" default=""/>   <!-- support multi robot -->
     <arg name="port" default="sensor_imu"/>
-    <arg name="device_frame"       default="imu_module_frame" />
+    <arg name="device_frame"       default="imu_link" />
     <!-- frame -->
     <arg name="imu_frame"       default="imu_frame" /> 
     <arg name="mag_frame"       default="mag_frame" />    
