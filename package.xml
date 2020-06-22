@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>sensor_imu</name>
+  <name>ros_imu</name>
   <version>1.0.1</version>
-  <description>The sensor_imu package</description>
+  <description>The ros_imu package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
@@ -18,7 +18,7 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/sensor_imu</url> -->
+  <!-- <url type="website">http://wiki.ros.org/ros_imu</url> -->
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
